@@ -44,14 +44,19 @@ EcoSense AI is a full-stack environmental analysis platform that utilizes a **Ra
    source venv/Scripts/activate  # On Windows: venv\Scripts\activate
 
 3. **Install Dependencies**:
+    ```bash
     pip install -r requirements.txt   
 
 4. **Run the Application**: 
+    ```bash
     python app.py
 
 
 
-📄 License
-Copyright (c) 2026 Sahil
+---
 
-This project is licensed under the MIT License. You are free to use, modify, and distribute this software, provided that original credit is given to the author. This project was developed as an educational extension of environmental data analysis techniques.
+## 📄 License
+
+**Copyright (c) 2026 Sahil**
+
+This project is licensed under the **MIT License**. You are free to use, modify, and distribute this software, provided that original credit is given to the author.
